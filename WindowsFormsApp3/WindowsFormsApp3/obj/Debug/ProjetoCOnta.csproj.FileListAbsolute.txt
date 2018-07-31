@@ -1,0 +1,13 @@
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ProjetoCOnta.csprojAssemblyReference.cache
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.TelaPrincipal.resources
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ProjetoCOnta.csproj.GenerateResource.cache
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ProjetoCOnta.csproj.CoreCompileInputs.cache
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ProjetoConta.csproj.CopyComplete
+C:\Users\Dr\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.View.cadastro.resources
